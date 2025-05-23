@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/dapsteveamos/cse341-project1#readme",
   "dependencies": {
-    "cse341-project1": "file:"
+    "cse341-project1": "file:",
+    "express": "^5.1.0"
   }
 }
