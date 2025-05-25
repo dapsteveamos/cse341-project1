@@ -1,0 +1,21 @@
+{
+    "firstName": "David",
+    "lastName": "Elias",
+    "email": "davidelias@gmail.com",
+    "favoriteColor": "Blue",
+    "birthday": "2003-05-15"
+}
+{
+    "firstName": "Cameron",
+    "lastName": "Murphy",
+    "email": "murphy@gmail.com",
+    "favoriteColor": "Green",
+    "birthday": "2004-08-22"
+}
+{
+    "firstName": "Micaela",
+    "lastName": "Morales",
+    "email": "micaela@gmail.com",
+    "favoriteColor": "Red",
+    "birthday": "2005-03-10"
+}
