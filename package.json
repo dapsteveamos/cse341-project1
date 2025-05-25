@@ -18,6 +18,8 @@
   "homepage": "https://github.com/dapsteveamos/cse341-project1#readme",
   "dependencies": {
     "cse341-project1": "file:",
-    "express": "^5.1.0"
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "mongodb": "^6.16.0"
   }
 }
