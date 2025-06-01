@@ -17,9 +17,14 @@
   },
   "homepage": "https://github.com/dapsteveamos/cse341-project1#readme",
   "dependencies": {
+    "body-parser": "^2.2.0",
     "cse341-project1": "file:",
     "dotenv": "^16.5.0",
     "express": "^5.1.0",
-    "mongodb": "^6.16.0"
+    "mongodb": "^6.16.0",
+    "swagger-ui-express": "^5.0.1"
+  },
+  "devDependencies": {
+    "swagger-autogen": "^2.23.7"
   }
 }
