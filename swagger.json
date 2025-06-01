@@ -5,10 +5,9 @@
     "description": "Contacts API",
     "version": "1.0.0"
   },
-  "host": "localhost:3000",
+  "host": "https://project1-jjxq.onrender.com",
   "basePath": "/",
   "schemes": [
-    "http",
     "https"
   ],
   "paths": {
