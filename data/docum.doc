@@ -1,21 +1,62 @@
-{
+[{
     "firstName": "David",
     "lastName": "Elias",
     "email": "davidelias@gmail.com",
     "favoriteColor": "Blue",
     "birthday": "2003-05-15"
-}
+},
 {
     "firstName": "Cameron",
     "lastName": "Murphy",
     "email": "murphy@gmail.com",
     "favoriteColor": "Green",
     "birthday": "2004-08-22"
-}
+},
 {
     "firstName": "Micaela",
     "lastName": "Morales",
     "email": "micaela@gmail.com",
-    "favoriteColor": "Red",
-    "birthday": "2005-03-10"
+    "favoriteColor": "Red"},
+{
+    "firstName": "Ava",
+    "lastName": "Thompson",
+    "email": "ava.thompson@gmail.com",
+    "favoriteColor": "Yellow",
+    "birthday": "2002-11-12"
+},
+{
+    "firstName": "Ethan",
+    "lastName": "Walker",
+    "email": "ethan.walker@gmail.com",
+    "favoriteColor": "Purple",
+    "birthday": "2003-02-18"
+},
+{
+    "firstName": "Sophia",
+    "lastName": "Nguyen",
+    "email": "sophia.nguyen@gmail.com",
+    "favoriteColor": "Pink",
+    "birthday": "2004-07-09"
+},
+{
+    "firstName": "Liam",
+    "lastName": "Johnson",
+    "email": "liam.johnson@gmail.com",
+    "favoriteColor": "Orange",
+    "birthday": "2001-06-25"
+},
+{
+    "firstName": "Emma",
+    "lastName": "Garcia",
+    "email": "emma.garcia@gmail.com",
+    "favoriteColor": "Turquoise",
+    "birthday": "2005-10-15"
+},
+{
+    "firstName": "Noah",
+    "lastName": "Martinez",
+    "email": "noah.martinez@gmail.com",
+    "favoriteColor": "Gray",
+    "birthday": "2000-01-03"
 }
+]
