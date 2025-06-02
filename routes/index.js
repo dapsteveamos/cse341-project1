@@ -28,6 +28,6 @@ router.get('/', (req, res) => {
 
 // Use other routes
 router.use('/contacts', contactsRoutes); // Contacts API endpoints
-router.use('/', swaggerRoutes);          // Swagger documentation available at /app-doc
+router.use('/', swaggerRoutes);          // Swagger documentation available at /api-doc
 
 module.exports = router;
