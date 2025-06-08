@@ -11,7 +11,7 @@
     "https"
   ],
   "paths": {
-    "/": {
+    "/contacts": {
       "get": {
         "tags": [
           "Contacts"
